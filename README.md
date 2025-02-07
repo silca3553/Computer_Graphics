@@ -21,7 +21,7 @@ Object hierarchy, Rotation
 </p>
 
 ## Assign 3-2
-Shader rendering pipline (using GLSL)
+Shader rendering pipline (using GLSL), Fragment shader, Vertex shader
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f3303b23-35ad-49d2-b8e6-83b2c8ca22e9" width="70%" />
 </p>
