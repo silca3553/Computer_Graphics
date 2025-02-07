@@ -1,0 +1,46 @@
+# .NET Core / .NET Framework 프로젝트에서 제외할 파일들
+bin/
+obj/
+
+# Visual Studio IDE 관련 폴더
+.vs/
+.vscode/
+
+# 사용자 설정 파일
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 빌드 아티팩트 (라이브러리, 컴파일된 결과물)
+*.dll
+*.exe
+*.pdb
+*.app
+*.so
+*.dylib
+
+# Visual Studio에서 자동으로 생성하는 캐시 파일
+*.dbmdl
+*.bak
+*.log
+*.vspscc
+*.vssscc
+
+# Windows에서 생성하는 캐시 파일
+Thumbs.db
+ehthumbs.db
+
+# macOS에서 생성하는 캐시 파일
+.DS_Store
+
+# JetBrains 관련 파일 (예: Rider)
+.idea/
+
+# NPM 또는 Node.js 관련
+node_modules/
+npm-debug.log
+
+# Git LFS 관리 파일 (LFS가 사용하는 파일)
+*.psd
+*.tiff
